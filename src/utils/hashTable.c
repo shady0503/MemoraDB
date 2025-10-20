@@ -5,8 +5,8 @@
  * 
  * File                      : src/utils/hashTable.c
  * Module                    : Hash Table
- * Last Updating Author      : Haitam Bidiouane
- * Last Update               : 07/29/2025
+ * Last Updating Author      : Unknown
+ * Last Update               : 10/20/2025
  * Version                   : 1.0.0
  * 
  * Description:

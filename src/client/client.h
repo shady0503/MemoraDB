@@ -5,8 +5,8 @@
  * 
  * File                      : src/utils/client.h
  * Module                    : Client Utilities Header
- * Last Updating Author      : sch0penheimer
- * Last Update               : 07/19/2025
+ * Last Updating Author      : Unknown
+ * Last Update               : 10/20/2025
  * Version                   : 1.0.0
  * 
  * Description:

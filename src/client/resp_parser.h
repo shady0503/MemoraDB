@@ -5,8 +5,8 @@
  * 
  * File                      : src/client/resp_parser.h
  * Module                    : Client-Side RESP Parser
- * Last Updating Author      : Haitam Bidiouane
- * Last Update               : 07/26/2025
+ * Last Updating Author      : Unknown
+ * Last Update               : 10/20/2025
  * Version                   : 1.0.0
  * 
  * Description:

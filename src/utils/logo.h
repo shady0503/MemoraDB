@@ -5,8 +5,8 @@
  * 
  * File                      : src/utils/logo.h
  * Module                    : Logo Display Utilities
- * Last Updating Author      : Weasel
- * Last Update               : 07/24/2025
+ * Last Updating Author      : Unknown
+ * Last Update               : 10/20/2025
  * Version                   : 1.0.0
  * 
  * Description:

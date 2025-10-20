@@ -5,8 +5,8 @@
  * 
  * File                      : src/parser/parser.c
  * Module                    : RESP Protocol Parser
- * Last Updating Author      : Kawtar TAIK
- * Last Update               : 08/11/2025
+ * Last Updating Author      : Unknown
+ * Last Update               : 10/20/2025
  * Version                   : 1.0.0
  * 
  * Description:

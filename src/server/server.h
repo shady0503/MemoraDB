@@ -5,8 +5,8 @@
  * 
  * File                      : src/server/server.h
  * Module                    : MemoraDB Server Header
- * Last Updating Author      : Weasel
- * Last Update               : 07/24/2025
+ * Last Updating Author      : Unknown
+ * Last Update               : 10/20/2025
  * Version                   : 1.0.0
  * 
  * Description:

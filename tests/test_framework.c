@@ -5,8 +5,8 @@
  * 
  * File                      : tests/test_framework.c
  * Module                    : Test Framework Implementation
- * Last Updating Author      : kei077
- * Last Update               : 08/14/2025
+ * Last Updating Author      : Unknown
+ * Last Update               : 10/20/2025
  * Version                   : 1.0.0
  * 
  * Description:

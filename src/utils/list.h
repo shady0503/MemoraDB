@@ -5,8 +5,8 @@
  * 
  * File                      : src/utils/list.h
  * Module                    : Linked List
- * Last Updating Author      : kei077
- * Last Update               : 08/06/2025
+ * Last Updating Author      : Unknown
+ * Last Update               : 10/20/2025
  * Version                   : 1.0.0
  * 
  * Description:
